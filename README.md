@@ -24,7 +24,7 @@ A website project showcasing beautiful beaches.
 [View Project on GitHub](https://github.com/ayesha1aslam22-glitch/beautifulbeaches)
 
 ## 🌍 Live Portfolio
-Visit my personal portfolio website using the live link in my GitHub profile.
+Visit my personal portfolio website using the live link in my GitHub profile.( https://ayesha1aslam22-glitch.github.io/ayesha-portfolio/)
 
 ## 🎯 My Goal
 To improve my web development skills and build professional websites.
